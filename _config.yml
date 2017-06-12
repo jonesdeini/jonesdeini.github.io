@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Rob Jones' Resume"
+description: "My resume hosted by GitHub Pages."
 
 # Build settings
 markdown: kramdown
@@ -13,7 +13,7 @@ resume_avatar:                  "true"
 resume_name:                    "Rob Jones"
 resume_title:                   "Senior Software Engineer"
 resume_contact_email:
-  "hide.jonesdeini@gmail.com"
+  "hire.jonesdeini@gmail.com"
 resume_header_contact_info: "Buffalo NY | hire.jonesdeini@gmail.com"
 resume_header_intro: "<p>I am a software developer from Buffalo NY; primarily interested in developing web services.
 
