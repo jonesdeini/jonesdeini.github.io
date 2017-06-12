@@ -1,0 +1,9 @@
+# Skills
+- skill: Languages
+  description: Ruby, Java, Google Go, Python, JavaScript, Bash
+
+- skill: Databases
+  description: PostgreSQL, Microsoft SQL Server, MySQL
+
+- skill: Other
+  description: git(Github), NGINX, Jenkins, Vim, Redis, RabbitMQ

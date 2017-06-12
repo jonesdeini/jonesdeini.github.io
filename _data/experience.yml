@@ -1,0 +1,25 @@
+# Jobs
+# Liaison International
+- company: Liaison International
+  position: Princible Software Engineer
+  duration: 2016 &mdash; Present
+  summary: Team leader responsible for mentioring junior developers.<ul class="resume-item-list"><li>Designed and implemented a content management system</li><li>Implemented many new features for a legacy Ruby on Rails application</li><li>Maintained an ETL written in Ruby</li></ul>
+
+# PhishMe
+- company: PhishMe
+  position: Senior Software Engineer
+  duration: 2015 &mdash; 2016
+  summary: Senior member of the development team maintaining and implementing new features in a legacy Ruby on Rails application.<ul class="resume-item-list"><li>Implemented features dealing with time zone based email delivery</li><li>Organized and lead a book club for our engineering team</li></ul>
+
+
+# Liaison International
+- company: Liaison International
+  position: Senior Software Engineer
+  duration: 2012 &mdash; 2015
+  summary: Starting from a junior engineer position and progressed all the way to senior engineer.<ul class="resume-item-list"><li>Brought an antiquated test suite up to date, and setup a continuous integration server to enforce maintenance of the test suite</li><li>Created and enforced general coding style guidelines for the development team to follow</li><li>Responsible for upgrading our main Rails application from 3.1 to 4.X</li></ul>
+
+# Academic Software Plus
+- company: Academic Software Plus
+  position: Senior Software Engineer
+  duration: 2011 &mdash; 2012
+  summary: Maintained 2 different Ruby on Rails applications for Physical Therapy students
