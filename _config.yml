@@ -15,10 +15,9 @@ resume_title:                   "Senior Software Engineer"
 resume_contact_email:
   "hire.jonesdeini@gmail.com"
 resume_header_contact_info: "Buffalo NY | hire.jonesdeini@gmail.com"
-resume_header_intro: "<p>I am a software developer from Buffalo NY; primarily interested in developing web services.
-
-Throughout my career I've looked up to folks like Sandi Metz, Robert C. Martin(Uncle Bob), Martin Fowler, and Sarah Mei.
-
+resume_header_intro: "<p> I am a software engineer from Buffalo NY; primarily interested in developing web services.
+Throughout my career I've built and maintained web applications of all sizes.
+I've built systems from the ground up and I've also spent a great deal working on legacy applications.
 I value testing very highly, and I am a strong advocate for Test Driven Development. </p>"
 
 # use "yes" to display the email contact button,
