@@ -1,9 +1,18 @@
 # Skills
 - skill: Languages
-  description: Ruby, Java, Google Go, Python, JavaScript, Bash
+  description: Ruby, JavaScript, SQL, Bash
 
-- skill: Databases
-  description: PostgreSQL, Microsoft SQL Server, MySQL
+- skill: Frameworks &amp; Tools
+  description: Ruby on Rails, Sidekiq, RSpec, Docker, git, CircleCI
 
-- skill: Other
-  description: git(Github), NGINX, Jenkins, Vim, Redis, RabbitMQ
+- skill: Data &amp; Messaging
+  description: PostgreSQL, Redis, RabbitMQ, Avro
+
+- skill: Push &amp; Email Delivery
+  description: APNs, Firebase Cloud Messaging (FCM), Amazon SES, Mailgun
+
+- skill: AWS
+  description: Bedrock, Kendra, Lambda, S3, SNS, Athena
+
+- skill: AI Systems
+  description: LLM agent architecture, tool and function calling, MCP, retrieval-augmented generation, agent evaluation

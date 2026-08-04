@@ -1,8 +1,14 @@
 # Jobs
+# Modo Labs
+- company: Modo Labs
+  position: Principal Software Engineer
+  duration: 2019 &mdash; Present
+  summary: Backend engineer on Modo's campus engagement platform, owning several Rails services end to end.<ul class="resume-item-list"><li>Built a multi-tenant AI agent platform on Rails 8 and AWS Bedrock, including the agentic tool-calling loop, a per-tenant tool registry, MCP-based tools, and an evaluation harness with HTTP record and replay</li><li>Integrated agent connectors for campus systems &mdash; D2L Brightspace, Canvas, PeopleSoft, and LDAP directories &mdash; with fail-closed permission handling so students never see content hidden from them</li><li>Primary maintainer of Modo Communicate, the organization's oldest and largest Rails application, which powers customer messaging</li><li>Own the push notification pipeline for both APNs and Firebase Cloud Messaging, delivering to millions of registered devices; migrated it to Firebase's HTTP v1 API ahead of the legacy endpoint's shutdown</li><li>Led framework upgrades and large migrations across services, including Rails 6 to 7.1, Sidekiq 6 to 7, and Paperclip to Shrine</li><li>Reviewed over 2,000 pull requests across the organization, mentoring engineers through code review</li></ul>
+
 # Liaison International
 - company: Liaison International
-  position: Principle Software Engineer
-  duration: 2016 &mdash; Present
+  position: Principal Software Engineer
+  duration: 2016 &mdash; 2019
   summary: Team leader responsible for mentoring junior developers.<ul class="resume-item-list"><li>Designed and implemented a content management system</li><li>Implemented many new features for a legacy Ruby on Rails application</li><li>Maintained an ETL written in Ruby</li></ul>
 
 # PhishMe

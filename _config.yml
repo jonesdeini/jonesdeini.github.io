@@ -11,14 +11,14 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Rob Jones"
-resume_title:                   "Senior Software Engineer"
+resume_title:                   "Principal Software Engineer"
 resume_contact_email:
   "hire.jonesdeini@gmail.com"
 resume_header_contact_info: "Buffalo NY | hire.jonesdeini@gmail.com"
-resume_header_intro: "<p> I am a software engineer from Buffalo NY; primarily interested in developing web services.
-Throughout my career I've built and maintained web applications of all sizes.
-I've built systems from the ground up and I've also spent a great deal working on legacy applications.
-I value testing very highly, and I am a strong advocate for Test Driven Development. </p>"
+resume_header_intro: "<p> I am a software engineer from Buffalo NY who builds and maintains backend web services.
+Most of my career has been spent in Ruby on Rails &mdash; owning services end to end, modernizing legacy applications,
+and more recently building multi-tenant AI agent systems on AWS Bedrock.
+I value testing very highly, and I care a great deal about leaving a codebase better than I found it. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
