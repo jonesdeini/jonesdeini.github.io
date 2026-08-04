@@ -18,7 +18,8 @@ resume_header_contact_info: "Buffalo NY | hire.jonesdeini@gmail.com"
 resume_header_intro: "<p> I am a software engineer from Buffalo NY who builds and maintains backend web services.
 Most of my career has been spent in Ruby on Rails &mdash; owning services end to end, modernizing legacy applications,
 and more recently building multi-tenant AI agent systems on AWS Bedrock.
-I value testing very highly, and I care a great deal about leaving a codebase better than I found it. </p>"
+I value testing very highly, and I care a great deal about leaving a codebase better than I found it.
+I have worked remotely on distributed teams for essentially my entire career. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
