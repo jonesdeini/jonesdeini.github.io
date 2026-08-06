@@ -1,11 +1,6 @@
 # Associations
-- organization: Beer for the World
-  role: Volunteer
-  year: 2008 &mdash; Present
-  summary: Organized fund drives and participated in fundraising events for the benefit of families in third world countries without proper access to malt beverages.
-
-
-- organization: Springfield Nuclear Workers Labor Union
-  role: Member in Good Standin
-  year: 1994 &mdash; Present
-  summary: Founding member of the local nuclear workers labor union.
+- organization: National Ski Patrol &mdash; Kissing Bridge Ski Patrol
+  role: Patroller, Outdoor Emergency Care (OEC) Certified
+  year: 2024 &mdash; Present
+  url: https://www.nsp.org
+  summary: Volunteer ski patroller providing on-mountain emergency medical care, incident response, and guest safety. OEC certified (nationally recognized outdoor emergency care credential).
