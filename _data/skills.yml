@@ -3,7 +3,7 @@
   description: Ruby, JavaScript, SQL, Bash
 
 - skill: Frameworks &amp; Tools
-  description: Ruby on Rails, Sidekiq, RSpec, Docker, git, CircleCI
+  description: Ruby on Rails, Sidekiq, RSpec, Docker, Kubernetes, ArgoCD, CodeBuild, CircleCI
 
 - skill: Data &amp; Messaging
   description: PostgreSQL, Redis, RabbitMQ, Avro
